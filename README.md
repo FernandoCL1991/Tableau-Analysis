@@ -10,3 +10,7 @@ Link to the workbook: https://public.tableau.com/views/FinalUpdateThw/Dashboard3
 
 
 ![image](https://user-images.githubusercontent.com/73721626/122092533-a7ad2a00-cdcf-11eb-8ce6-00f55b965fd3.png)
+
+![image](https://user-images.githubusercontent.com/73721626/122092695-d75c3200-cdcf-11eb-90a9-9c49dfd60975.png)
+
+![image](https://user-images.githubusercontent.com/73721626/122092780-ef33b600-cdcf-11eb-81ff-b8a6c797a33a.png)
