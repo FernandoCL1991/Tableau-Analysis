@@ -7,3 +7,6 @@ Due to the use of a basic-tier-plan in Tableau, it establishes a fixed limit of 
 The goal of this assignment is to create visual representations of different factors that have direct impact on the way the demand of bikes behave.
 
 Link to the workbook: https://public.tableau.com/views/FinalUpdateThw/Dashboard3?:language=es-ES&:display_count=n&:origin=viz_share_link
+
+
+![image](https://user-images.githubusercontent.com/73721626/122092533-a7ad2a00-cdcf-11eb-8ce6-00f55b965fd3.png)
