@@ -1,4 +1,4 @@
-# TableauAssignment
+# Tableau Analysis to discover phenomena (Working with Datetime & Connections with PosgreSQL)
 
 The dataset was retrieved from NYC citibike website: https://www.citibikenyc.com/system-data This is real data compiled from 2013 up to date.
 
